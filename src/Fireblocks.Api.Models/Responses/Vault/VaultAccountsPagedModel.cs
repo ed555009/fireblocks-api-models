@@ -5,7 +5,7 @@ public class VaultAccountsPagedModel : BaseResponseModel
 	/// <summary>
 	/// List of vault account objects
 	/// </summary>
-	public IEnumerable<VaultAccountModel?>? MyProperty { get; set; }
+	public IEnumerable<VaultAccountModel?>? Accounts { get; set; }
 
 	public Paging? Paging { get; set; }
 
