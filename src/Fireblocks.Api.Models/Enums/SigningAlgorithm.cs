@@ -1,4 +1,4 @@
-namespace Fireblocks.Api.Models.Enums;
+namespace Fireblocks.Api.Enums;
 
 public enum SigningAlgorithm
 {
