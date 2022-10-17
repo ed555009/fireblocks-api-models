@@ -30,5 +30,5 @@ public class VaultAccountModel : BaseResponseModel
 	/// <summary>
 	/// List of assets under this Vault Account
 	/// </summary>
-	public IEnumerable<VaultAssetModel?>? Assets { get; set; }
+	public IEnumerable<VaultAssetModel>? Assets { get; set; }
 }
