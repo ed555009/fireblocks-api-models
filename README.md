@@ -12,7 +12,7 @@
 
 ## Description
 
-This is a dependency package for Fireblocks.Api
+This is a dependency package for [Fireblocks.Api](https://github.com/ed555009/fireblocks-api)
 
 # Reference
 
