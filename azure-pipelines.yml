@@ -4,8 +4,7 @@ pr:
 - master
 
 trigger:
-- dev
-- master
+- '*'
 
 # use self-hosted agent
 pool:
