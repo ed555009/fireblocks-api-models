@@ -1,6 +1,6 @@
 namespace Fireblocks.Api.Models.Requests;
 
-public class SetGasStationConfiguration
+public class SetGasStationConfigurationModel
 {
 	/// <summary>
 	/// Below this ETH balane the address will be funded up until gasCap value, in ETH units
