@@ -1,6 +1,6 @@
 namespace Fireblocks.Api.Models.Responses;
 
-public class EstimatedTransactionFeeResponseModel
+public class EstimatedTransactionFeeResponseModel : BaseResponseModel
 {
 	/// <summary>
 	/// Transactions with this fee will probably take longer to be mined
