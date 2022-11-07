@@ -1,4 +1,4 @@
-using Fireblocks.Api.Models.Enums;
+using Fireblocks.Api.Enums;
 
 namespace Fireblocks.Api.Models.Requests.Params;
 
